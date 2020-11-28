@@ -1,4 +1,4 @@
-# New York Taxi Demand Prediction
+# New York City Taxi Demand Prediction
 ## Problem Statement
 To find number of pickups, given location cordinates(latitude and longitude) and time, in the query region and surrounding regions.
 ## Data Source:
