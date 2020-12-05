@@ -20,19 +20,3 @@ __Constraints:__
 __Our goal is to reduce the percentage error is low as possible.__
 
 
-## Libraries: 
-* __dask:__ It is used to handle very large files.
-    * i) pip3 install dask
-
-* __folium:__ It is used to plot maps using latitude and longitude.
-    * i) pip3 install folium
-    * ii) conda install -c conda-forge folium
-
-* __xgboost:__ It is used to make xgboost regression model. 
-    * i)  pip3 install xgboost
-    * ii) conda install -c conda-forge xgboost 
-
-* __gpxpy:__ It is used while we calculate the straight line distance between two (latitude, longitude) pairs in miles.
-    * i) pip install gpxpy
-
-
